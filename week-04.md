@@ -11,7 +11,7 @@
 * What is model?
 * What is middleware?
 * Compare and contrast a RESTful show and index route
-* What are the three RESTful routes that can a resource?
+* What are the three RESTful routes that can change a resource?
 * Why is REST useful?
 * Compare and contrast the `params`, `query` and `body` of a request.
 * Compare and contrast mongo with mongoose.

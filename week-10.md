@@ -1,6 +1,6 @@
 * What is a directive? 
 * Describe what MVC means on the front end,
-* What were one of two concepts that form models in Angular?
+* What was one of two concepts that form models in Angular?
 * What is data binding? What happens when I use an ng-model directive?
 * What is dependency injection?
 * Name 4 Angular directives

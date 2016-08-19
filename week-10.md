@@ -9,7 +9,7 @@
 * What is a promise?
 * What do {{double curly brackets}} do?
 * Describe what "ng-controller="SettingsController as settings" would be doing
-* Is Angular oppinionated? Why or why not?,
+* Is Angular opinionated? Why or why not?,
 * Describe what "ng-click="myFunction(myArgument)" would do.,
 * What does "ng-class" do?
 * What is Firebase?

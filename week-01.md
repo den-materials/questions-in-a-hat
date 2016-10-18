@@ -20,3 +20,6 @@
 * Give two examples of HTML attributes.
 * How do you set an event on an element in the browser? Give two examples of events you can set.
 * In the console what code would create a `p` tag, set it's text content to "happy friday", and its color to `blue`.
+* What is the difference between Centralized Version Control and Distributed Version Control?
+* What is the process for getting a local copy of a lab assignment with git and GitHub?
+* What is the process for pushing your local changes to GitHub?

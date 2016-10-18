@@ -1,3 +1,5 @@
+* What is a ternary, give an example of one?
+* Give an example of one "truthy" and one "falsey" datatype in javascript (something besides `true` and`false`).
 * What git command would you use to switch to another branch?
 * What git command would you use to list all branches?
 * What git command would you use to combine two different branches?
@@ -23,6 +25,3 @@
 * Why might we want to avoid using methods directly in our constructors?
 * Define prototype in your own words.
 * What is the top-level prototype for most things in Javascript?
-* What is the difference between Centralized Version Control and Distributed Version Control?
-* What is the process for getting a local copy of a lab assignment with git and GitHub?
-* What is the process for pushing your local changes to GitHub?

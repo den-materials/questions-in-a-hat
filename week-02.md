@@ -1,4 +1,4 @@
-* What is a ternary, give an example of one?
+* What is a ternary? Give an example of one.
 * Give an example of one "truthy" and one "falsey" datatype in javascript (something besides `true` and`false`).
 * What git command would you use to switch to another branch?
 * What git command would you use to list all branches?

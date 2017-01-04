@@ -1,0 +1,12 @@
+- Compare and contrast one to one, one to many, and many to many relationships.
+- What is SQL?
+- What is the difference between SQL and Postgres?
+- Compare and contrast Postgres and Mongo.
+- What does SELECT do in SQL?
+- What does INSERT do in SQL?
+- When do you use a where clause in SQL?
+- What is the difference between Mongoose and Sequelize?  Any major code differences?
+- What are the four parts of the SEAN (or PEAN) stack?
+- What part of this unit do you feel confused about?  See if you can work it out with your partner.
+- What does JOIN do in SQL?
+- How do you create a one-to-many relationship with Sequelize?

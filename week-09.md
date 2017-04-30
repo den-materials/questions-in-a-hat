@@ -1,3 +1,4 @@
+- What is Satellizer?
 - Compare and contrast one to one, one to many, and many to many relationships.
 - What is SQL?
 - What is the difference between SQL and Postgres?
@@ -10,3 +11,5 @@
 - What part of this unit do you feel confused about?  See if you can work it out with your partner.
 - What does JOIN do in SQL?
 - How do you create a one-to-many relationship with Sequelize?
+- What is Firebase?
+- What is a websocket?

@@ -1,16 +1,17 @@
-* What is a directive? 
-* Describe what Model, View, and Controller mean on the front end
-* What is data binding? What happens when I use an ng-model directive?
-* What is dependency injection?
+* What is a component? 
+* Describe what Model, View, and View-Model mean on the front end
+* What is data binding? What happens when I use an `[(ngModel)]` directive?
+* What is the syntax to import an Angular library into a component?
 * Name 4 built-in Angular directives
+* Angular Universal is a feature that allows Angular to live where?
 * What is routing in Angular?
-* What is $http?
-* What is $resource?
+* What is `Http`?
 * What is a promise?
+* What is an observable?
 * What do {{double curly brackets}} do in Angular?
-* Describe what "ng-controller="SettingsController as settings" would do
-* Describe what "ng-click="myFunction(myArgument)" would do
-* What does "ng-class" do?
-* What are the 4 parts of the MEAN stack?
-* What does "ng-repeat" do?
-* What Angular module did we use for animations?
+* Describe what `<router-outlet>` allows us to do
+* Describe what `(click)="myFunction(myArgument)"` would do
+* What does `*ngFor` do?
+* How can a Service Worker be helpful?
+* If we have too many components, we could bundle them together into a _______.
+* If we need to pull logic, especially HTTP/API calls, out of a component, we could create a _______.

@@ -1,15 +1,16 @@
-- What is Satellizer?
+- What is Sequelize?
 - Compare and contrast one to one, one to many, and many to many relationships.
 - What is SQL?
 - What is the difference between SQL and Postgres?
 - Compare and contrast Postgres and Mongo.
 - What does SELECT do in SQL?
 - What does INSERT do in SQL?
-- When do you use a where clause in SQL?
+- When do you use a WHERE clause in SQL?
 - What is the difference between Mongoose and Sequelize?  Any major code differences?
 - What are the four parts of the SEAN (or PEAN) stack?
-- What part of this unit do you feel confused about?  See if you can work it out with your partner.
+- What part of this unit do you feel confused about?  See if you can work it out with your squad.
 - What does JOIN do in SQL?
 - How do you create a one-to-many relationship with Sequelize?
-- What is Firebase?
-- What is a websocket?
+- Walk through the major steps you would take to build a full-stack app with Node, Angular, and Sequelize.
+- What does **normalization** mean in the context of databases?
+- What will your data models be for Project 3?

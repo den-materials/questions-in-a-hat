@@ -15,6 +15,6 @@
 * What is the difference between `<%= %>` and `<% %>` in EJS?
 * Name a class in Bootstrap that may be helpful for your Project 2 and why.
 * What functions would you use to add and remove from a stack?
-* What does the `gulp.watch()` command allow us to do?
-* What gulp task runs when you just type the `gulp` command with nothing after it?
+* What does Sass stand for?
+* What is your favorite feature of Sass and why?
 * How do you write a jQuery AJAX GET request?  How about a POST request?

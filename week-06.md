@@ -14,7 +14,8 @@
 * What is a partial?
 * What is the difference between `<%= %>` and `<% %>` in EJS?
 * Name a class in Bootstrap that may be helpful for your Project 2 and why.
-* What functions would you use to add and remove from a stack?
+* What is recursion?
 * What does Sass stand for?
 * What is your favorite feature of Sass and why?
 * How do you write a jQuery AJAX GET request?  How about a POST request?
+* What does `before` do in Mocha?
